@@ -1,0 +1,14 @@
+{
+  "name": "ro-crate-d3",
+  "version": "1.0.0",
+  "description": "D3 visualisations of RO-Crates",
+  "main": "rocrate2d3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Lynch",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "ro-crate": "^1.6.3"
+  }
+}
